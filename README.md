@@ -38,12 +38,9 @@ Hi I'm Blackwell, I have several aliases you might know me online for. I've spen
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BlackwellArchitecture&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BlackwellArchitecture&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BlackwellArchitecture" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BlackwellArchitecture&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BlackwellArchitecture&layout=compact&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=BlackwellArchitecture&background=00000000&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="150" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
