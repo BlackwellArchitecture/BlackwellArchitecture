@@ -44,7 +44,7 @@ Hi I'm Blackwell, I have several aliases you might know me online for. I've spen
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/BlackwellArchitecture" alt="GitHub Contribution Graph" width="100%" />
+  <img src="https://ghchart.xqsit94.in/dark:default/BlackwellArchitecture" alt="GitHub Contribution Graph" width="100%" />
 </p>
 
 ---
