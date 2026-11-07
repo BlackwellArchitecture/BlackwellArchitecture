@@ -1,16 +1,40 @@
-## Hi there 👋
+<p align="center">
+  <img src="images/Blackwellarchitecture.png" alt="Blackwell Architecture" />
+</p>
 
-<!--
-**BlackwellArchitecture/BlackwellArchitecture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Add your bio, background, and interests here -->
+
+---
+
+## Tech Stack
+
+<!-- Add your languages, frameworks, and tools here -->
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackwellArchitecture&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackwellArchitecture&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackwellArchitecture&theme=github-compact" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
+
+## Current Projects
+
+<!-- Add featured repositories or ongoing work here -->
+
+---
+
+## Connect
+
+<!-- Add social links, portfolio, or contact details here -->
