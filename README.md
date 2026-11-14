@@ -18,6 +18,15 @@
 
 Hi I'm Blackwell, I have several aliases you might know me online for. I've spent the past year working on obscure projects and some went great and some weren't. I've recently studied how databases work and now I'm headed over to MCP to understand it. Earlier this year around 2026 I didn't even know how to operate Github but here we are.
 
+I am a frontend and backend developer.
+
+### Projects
+
+1. **RoPysence** - Roblox-Discord Presence made with Python, open source project
+2. **Multi Video Syncer** - Syncs 2 videos or more (most preferably one with a POV) using anchor points and then plays a timeline with both POVs synced like watching a security camera
+3. **'Standalone' Discord Management Bot** - Manages and logs win messages across multiple servers
+4. **Fleasiovault** - Community driven asset information management platform
+
 ---
 
 ## Tech Stack
@@ -28,6 +37,8 @@ Hi I'm Blackwell, I have several aliases you might know me online for. I've spen
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white" alt="Luau" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
