@@ -26,6 +26,7 @@ I am a frontend and backend developer.
 2. **Multi Video Syncer** - Syncs 2 videos or more (most preferably one with a POV) using anchor points and then plays a timeline with both POVs synced like watching a security camera
 3. **'Standalone' Discord Management Bot** - Manages and logs win messages across multiple servers
 4. **Fleasiovault** - Community driven asset information management platform
+5. **StackShot** - Lightweight desktop application built with Tauri 2 and Rust that replicates and extends Adobe Photoshop's Image Stack modes without needing Photoshop
 
 ---
 
